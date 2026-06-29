@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "emanf.file-content-exporter",
+  "title": "File Content Exporter",
+  "description": "Select a root folder, build a list of files and export their contents to a single file.",
+  "version": "0.1.0",
+  "last_modified": "2026-06-22",
+  "author": "eManF",
+  "icon": "m:\uef5f",
+  "category": "utility",
+  "keywords": ["export", "files", "content"],
+  "min_edock_version": "0.1.0",
+  "license": ""
+}
