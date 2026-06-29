@@ -1,4 +1,4 @@
-<p align="center"><img src="sc_file_content_exporter.png" width="600" alt="Logo"></p>
+<p align="center"><img src="sc_file_content_exporter.png" width="600" alt="screenshot"></p>
 
 # eDock File Content Exporter
 
