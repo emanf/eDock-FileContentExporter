@@ -1,3 +1,5 @@
+<p align="center"><img src="sc_file_content_exporter.png" width="600" alt="Logo"></p>
+
 # eDock File Content Exporter
 
 A simple eDock app for exporting file contents into a clean text format.
